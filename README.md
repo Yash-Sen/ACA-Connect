@@ -23,7 +23,21 @@
 
 ## 📸 Screenshots
 
-*(Add your app screenshots here after uploading them to a `screenshots/` folder in this repo)*
+<p align="center">
+  <img src="screenshots/Screenshot_20260601-223334.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223350.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223505.png" width="200" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_20260601-223512.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223519.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223525.png" width="200" />
+</p>
+<p align="center">
+  <img src="screenshots/Screenshot_20260601-223538.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223546.png" width="200" />
+  <img src="screenshots/Screenshot_20260601-223553.png" width="200" />
+</p>
 
 ## 📥 Setup and Installation
 
