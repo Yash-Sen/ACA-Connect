@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698712443187",
+    "project_id": "aca-connect-e7f71",
+    "storage_bucket": "aca-connect-e7f71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698712443187:android:81b5d6f55973b7a267d646",
+        "android_client_info": {
+          "package_name": "com.example.acaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0scNqF2kCrA58xBL2WwcVtFeo_skVWzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
