@@ -59,4 +59,4 @@
 This project was developed for the **EE4353: Mobile Application Development** course at the University of Sri Jayewardenepura.
 
 ---
-Developed by [Your Name]
+Developed by [Yashmika Senadheera ,Nipuna Jayarathna, Sithara Hennayaka]
